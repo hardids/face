@@ -8,5 +8,11 @@ plotly
 pillow
 cv
 dlib
-skimage
 keras
+Keras-Applications
+Keras-Preprocessing
+opencv-python
+pbr
+scipy
+tensorflow
+tensorflow-estimator

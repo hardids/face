@@ -6,7 +6,7 @@ matplotlib
 seaborn
 plotly
 pillow
-cv2 
+cv
 dlib
 skimage
 keras

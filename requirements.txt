@@ -8,8 +8,6 @@ plotly
 pillow
 opencv-python
 cmake
-cv
-dlib
 keras
 Keras-Applications
 Keras-Preprocessing

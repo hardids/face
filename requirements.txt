@@ -6,7 +6,6 @@ matplotlib
 seaborn
 plotly
 pillow
-os
 cv2 
 dlib
 skimage

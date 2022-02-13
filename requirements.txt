@@ -5,7 +5,7 @@ joblib
 matplotlib
 seaborn
 plotly
-PIL
+pillow
 os
 cv2 
 dlib

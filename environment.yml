@@ -1,10 +1,10 @@
- channels:
-     - conda-forge
-     - defaults
- dependencies:
-     - joblib
-     - pip
-     - pip:
+channels:
+- conda-forge
+- defaults
+dependencies:
+- joblib
+- pip
+- pip:
       - matplotlib
       - joblib
       - pathlib

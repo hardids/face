@@ -21,6 +21,5 @@ dependencies:
       - seaborn
       - plotly
       - Pillow
-      - os
       - cv2 
       - skimage

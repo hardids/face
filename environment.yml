@@ -3,6 +3,7 @@
  dependencies:
      - pip:
       - matplotlib
+      - joblib
       - pathlib
       - keras
       - dlib

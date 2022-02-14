@@ -1,5 +1,5 @@
-name:
-  - testss
+name: testss
+
 channels:
   - anaconda
   - conda-forge

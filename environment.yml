@@ -1,7 +1,12 @@
+name:
+  - testss
 channels:
- - conda-forge
+  - anaconda
+  - conda-forge
+  - defaults
 dependencies:
  - python=3.7
+ - pip
  - pip:
       - matplotlib
       - joblib

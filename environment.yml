@@ -1,22 +1,23 @@
  channels:
      - conda-forge
  dependencies:
-     - dlib
-     - numpy
-     - scipy
-     - opencv
-     - face_recognition
-     - streamlit
-     - pandas
-     - joblib
-     - matplotlib
-     - seaborn
-     - plotly
-     - PIL
-     - pillow
-     - os
-     - cv2 
-     - skimage
-     - matplotlib
-     - pathlib
-     - keras
+     - pip:
+      - matplotlib
+      - pathlib
+      - keras
+      - dlib
+      - numpy
+      - scipy
+      - opencv
+      - face_recognition
+      - pandas
+      - joblib
+      - matplotlib
+      - seaborn
+      - plotly
+      - PIL
+      - pillow
+      - os
+      - cv2 
+      - skimage
+

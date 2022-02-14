@@ -2,7 +2,7 @@ numpy
 Pillow
 opencv-contrib-python
 opencv-python
-dlib
+dlib-bin
 streamlit
 joblib
 matplotlib

@@ -6,3 +6,17 @@
      - scipy
      - opencv
      - face_recognition
+     - streamlit
+     - pandas
+     - joblib
+     - matplotlib
+     - seaborn
+     - plotly
+     - PIL
+     - pillow
+     - os
+     - cv2 
+     - skimage
+     - matplotlib
+     - pathlib
+     - keras

@@ -1,6 +1,8 @@
  channels:
      - conda-forge
+     - defaults
  dependencies:
+     - joblib
      - pip:
       - matplotlib
       - joblib

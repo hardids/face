@@ -25,7 +25,7 @@ import numpy as np
 def welcome():
     st.title('이 앱은 나의 관상으로 보았을때 어떤 직업이 어울리는지 보는 앱입니다.')
     st.subheader('이미지 또는 캠코더로 직접 입력 해 주세요.')   
-    st.image('/content/face_detection.jpeg',use_column_width=True)
+    st.image('face_detection.jpeg',use_column_width=True)
 
 def photo():
     st.title('포토파일입력')

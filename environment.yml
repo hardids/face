@@ -1,5 +1,3 @@
-name: testss
-
 channels:
   - conda-forge
   - defaults

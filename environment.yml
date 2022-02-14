@@ -21,4 +21,4 @@ dependencies:
       - seaborn
       - plotly
       - Pillow
-      - skimage
+      - scikit-image

@@ -2,7 +2,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-#import joblib
+import joblib
 import matplotlib.pyplot as plt
 import matplotlib
 import seaborn as sns
@@ -10,7 +10,7 @@ import plotly.express as px
 from PIL import Image
 import os
 import cv2 
-from google.colab.patches import cv2_imshow
+#from google.colab.patches import cv2_imshow
 import dlib
 from skimage import io
 import matplotlib.pyplot as plt

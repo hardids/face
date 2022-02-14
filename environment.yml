@@ -3,7 +3,6 @@ channels:
 - defaults
 dependencies:
 - joblib
-- pip
 - pip:
       - matplotlib
       - joblib
